@@ -29,7 +29,7 @@ Documentation = "https://github.com/negaga53/comfyui-imgloader/wiki"
 "Bug Tracker" = "https://github.com/negaga53/comfyui-imgloader/issues"
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "nemega"
 DisplayName = "comfyui-imgloader"
 Icon = ""
 includes = [] 
